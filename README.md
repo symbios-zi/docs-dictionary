@@ -6,6 +6,8 @@
 
 **facade** - фасад
 
+**helper** - хелпер
+
 **instance** - экземпляр
 
 **middleware** - посредник 
