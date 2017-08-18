@@ -70,7 +70,7 @@
 
 - **trait** - трейт
 - **throw an exception** - бросить исключение
-
+- **truth test** - проверка на истинность
 - **type-hint** - ???
 > "Type hinting" - это контроль типов. "type-hint" в контексте Laravel это как правило означает подачу в аргументы какого-либо класса. Т.е. , например "First, let's look at accessing the session via a Request instance, which can be type-hinted on a controller method" - это что-то вроде "Один из методов доступа к сессиям - при помощи экземпляра класса Request, который можно указать в качестве аргумента метода контроллера." . Если подобное обыгрывание невозможно, то можно type-hint оставить непереведённым.
 
