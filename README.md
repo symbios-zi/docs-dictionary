@@ -43,6 +43,7 @@
 
 - **middleware** — посредник 
 - **migration** — миграция
+- **module bundler** — сборщик пакетов (или "сборщик ассетов")
 
 ### N
 
@@ -61,7 +62,7 @@
 
 ### S
 
-- **service** - сервис
+- **service** — сервис
 - **service container** — сервис-контейнер
 - **service provider** — сервис-провайдер
 - **signature** — сигнатура
