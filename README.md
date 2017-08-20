@@ -14,6 +14,7 @@
 ### D
 
 - **dependency injection** — внедрение зависимостей
+- **deploying** — развёртывание
 
 ### E
 ### F
@@ -65,6 +66,7 @@
 - **service container** — сервис-контейнер
 - **service provider** — сервис-провайдер
 - **signature** — сигнатура
+- **source control** — система контроля версий
 
 ### T
 
